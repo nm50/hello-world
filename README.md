@@ -1,5 +1,5 @@
 # hello-world
-Creatig first repository as per Github's instructions
+Creating first repository as per Github's instructions
 
 I am Nabeel Khan looking for job in Data Science industry from QA perspective.
 I have significant working and academic experience in Computer Science field and able to learn quickly.
